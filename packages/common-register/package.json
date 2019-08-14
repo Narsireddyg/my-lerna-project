@@ -1,0 +1,21 @@
+{
+  "name": "common-register",
+  "version": "2.0.0",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  },
+  "main": "bundles/common-register.umd.js",
+  "module": "fesm5/common-register.js",
+  "es2015": "fesm2015/common-register.js",
+  "esm5": "esm5/common-register.js",
+  "esm2015": "esm2015/common-register.js",
+  "fesm5": "fesm5/common-register.js",
+  "fesm2015": "fesm2015/common-register.js",
+  "typings": "common-register.d.ts",
+  "metadata": "common-register.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
